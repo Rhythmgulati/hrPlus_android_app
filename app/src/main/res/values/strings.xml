@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">hrPlus</string>
+    <string-array name="leave_filter_options">
+        <item>All Leaves</item>
+        <item>Pending Only</item>
+        <item>Approved Only</item>
+        <item>Rejected Only</item>
+    </string-array>
+</resources>
